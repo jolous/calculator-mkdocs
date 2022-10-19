@@ -1,0 +1,5 @@
+conda install -c conda-forge mkdocs
+conda install -c conda-forge mkdocstrings
+conda install -c conda-forge mkdocs-material
+conda install -c conda-forge mkdocstrings-python 
+pip install bpython

@@ -1,0 +1,4 @@
+# .gitignore
+
+MkDocs/
+__pycache__
